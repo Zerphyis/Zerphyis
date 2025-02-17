@@ -8,3 +8,7 @@
 <img align="center" alt="Mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+## Rede Sócias
+<a href="https://www.linkedin.com/in/otavio-alexandre-656a7926a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn">
+</a>
