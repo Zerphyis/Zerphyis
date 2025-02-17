@@ -8,8 +8,3 @@
 <img align="center" alt="Mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-## Rede Sóciais
-<div style="display: inline_block"><br/>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-  
-</div>
