@@ -1,6 +1,6 @@
 ### Ola me chamo Otávio,Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 5º período da faculdade. Estou em busca de uma oportunidade para aplicar meus conhecimentos, colaborar com equipes e continuar aprendendo e evoluindo na área de desenvolvimento de software.
 
-## Tecnologias que estou estudando
+## Tecnologias que tenho conhecimento 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
@@ -11,6 +11,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="50" height="50" />
    &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"   width="50" height="50"/>
+</p>
+## Tecnologias que estou estudando conhecimento 
+<p align="left">
+
 </p>
 
 ## Rede Social
