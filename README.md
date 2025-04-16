@@ -12,9 +12,13 @@
    &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"   width="50" height="50"/>
 </p>
-## Tecnologias que estou estudando conhecimento 
-<p align="left">
 
+## Tecnologias que estou estudando  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="50" height="50" />
+ &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"   width="50" height="50" />
+&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Rede Social
