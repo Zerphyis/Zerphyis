@@ -22,13 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50" height="50" />
 </p>
 
-## Rede Social
-<div>
-<a href="https://www.linkedin.com/in/otavio-alexandre-656a7926a/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" height="48" alt="LinkedIn">
-</a>
-</div>
-
 <div>
 <a href="https://github.com/Zerphyis">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerphyis&layout=compact&langs_count=7&theme=dark"/>
