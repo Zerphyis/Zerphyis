@@ -60,6 +60,6 @@ Conseguir uma oportunidade como desenvolvedor júnior para:
 
 ## 📫 Contato
 
-- LinkedIn: [(adicione aqui)](https://www.linkedin.com/in/otavio-alexandre-656a7926a/)
+- LinkedIn: [(clique aki)](https://www.linkedin.com/in/otavio-alexandre-656a7926a/)
 
 
