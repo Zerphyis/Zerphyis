@@ -31,12 +31,23 @@ Tenho interesse em construir soluções eficientes, aprender boas práticas de d
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zerphyis&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerphyis&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zerphyis&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerphyis&layout=compact&theme=tokyonight&hide=html,css&langs_count=6"
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerphyis&theme=tokyonight" alt="Streak do GitHub" />
+  <img 
+    width="90%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Zerphyis&theme=tokyonight"
+  />
 </div>
 
 
