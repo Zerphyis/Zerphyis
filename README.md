@@ -32,7 +32,7 @@ Tenho interesse em construir soluções eficientes, aprender boas práticas de d
 
 <div align="center">
   <img 
-    width="95%" 
+    width="75%" 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zerphyis&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
   />
 </div>
